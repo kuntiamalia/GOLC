@@ -1,7 +1,11 @@
+<<<<<<< HEAD
+hgffh
+=======
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
   Launch demo modal
 </button>
+>>>>>>> aaa36662909f22af22b7ec8b4a3f2f79b64d7582
 
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -22,3 +26,4 @@
   </div>
 </div>
 Tashya
+Tashya ppppp
