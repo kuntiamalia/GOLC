@@ -25,5 +25,3 @@ hgffh
     </div>
   </div>
 </div>
-Tashya
-Tashya ppppp
